@@ -7,7 +7,7 @@ Welcome to Database Systems Seminar :)
     <th colspan="7">2020 Fall</th>
   </tr>
   <tr>
-    <th colspan="7"><span style="font-weight:bold">Time: </span>13:30 - 15:00, Tuesday　　　<span style="font-weight:bold">Venue: </span>B914, Science Building</th>
+    <th colspan="7"><span style="font-weight:bold">Time: </span>10:00 - 11:40, Wednesday　</th>
   </tr>
   <tr>
     <td>Month</td>
