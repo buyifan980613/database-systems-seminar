@@ -18,9 +18,9 @@ Welcome to Database Systems Seminar :)
     <td>Materials</td>
   </tr>
   <tr>
-    <td rowspan="2">September</td>
-    <td>15</td>
-    <td>1</td>
+    <td rowspan="12">November</td>
+    <td rowspan="4">11</td>
+    <td rowspan="11" ></td>
     <td>Self-Balancing Federated Learning With Global Imbalanced Data in Mobile Systems</td>
     <td>步一凡</td>
     <td><a href="2020fall/20200915 - Self-Balancing Federated Learning With Global Imbalanced Data in Mobile Systems (步一凡).pptx">Slides</a></td>
