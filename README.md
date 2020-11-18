@@ -49,20 +49,20 @@ Welcome to Database Systems Seminar :)
   </tr>
   
   <tr>
-    <td>BlockchainDB: a shared database on blockchains[J]. Proceedings of the VLDB Endowment</td>
-    <td>张柔雨</td>
+    <td>Untangling blockchain: A data processing view of blockchain systems</td>
+    <td>周浩</td>
     <td><a href="2020fall/Distributed data management and blockchain/20201111 - BlockChainDB-a shared database on blockchains(张柔雨).pptx">Slides</a></td>
   </tr>
   
   <tr>
-    <td>BlockchainDB: a shared database on blockchains[J]. Proceedings of the VLDB Endowment</td>
-    <td>张柔雨</td>
+    <td>Towards scaling blockchain systems via sharding</td>
+    <td>黄志锋</td>
     <td><a href="2020fall/Distributed data management and blockchain/20201111 - BlockChainDB-a shared database on blockchains(张柔雨).pptx">Slides</a></td>
   </tr>
   
   <tr>
-    <td>BlockchainDB: a shared database on blockchains[J]. Proceedings of the VLDB Endowment</td>
-    <td>张柔雨</td>
+    <td>FalconDB: Blockchain-based Collaborative Database</td>
+    <td>梁策</td>
     <td><a href="2020fall/Distributed data management and blockchain/20201111 - BlockChainDB-a shared database on blockchains(张柔雨).pptx">Slides</a></td>
   </tr>
   
