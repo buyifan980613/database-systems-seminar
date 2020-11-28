@@ -42,7 +42,7 @@ Welcome to Database Systems Seminar :)
   </tr>
   
   <tr>
-    <td rowspan="4">18</td>
+    <td rowspan="3">18</td>
     <td>Enabling verifiable boolean range queries over blockchain databases</td>
     <td>陈晗锋</td>
     <td><a href="2020fall/Distributed data management and blockchain/20201118 - vChain Enabling Verifiable Boolean Range Queries over Blockchain Databases(陈晗锋).pptx.pptx">Slides</a></td>
@@ -61,12 +61,12 @@ Welcome to Database Systems Seminar :)
   </tr>
   
   <tr>
+    <td rowspan="4">25</td>
     <td>FalconDB: Blockchain-based Collaborative Database</td>
     <td>梁策</td>
     <td><a href="2020fall/Distributed data management and blockchain/20201125 - FalconDB Blockchain-based Collaborative Database(梁策).pptx">Slides</a></td>
   </tr>
   <tr>
-    <td rowspan="4">18</td>
     <td>CAPER区块链论文讲演</td>
     <td>刘志豪</td>
     <td><a href="2020fall/Distributed data management and blockchain/20201125 - CAPER区块链论文讲演(刘志豪).ppt">Slides</a></td>
