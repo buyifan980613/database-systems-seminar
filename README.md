@@ -45,19 +45,19 @@ Welcome to Database Systems Seminar :)
     <td rowspan="4">18</td>
     <td>Enabling verifiable boolean range queries over blockchain databases</td>
     <td>陈晗锋</td>
-    <td><a href="2020fall/Distributed data management and blockchain/1.txt">Slides</a></td>
+    <td><a href="2020fall/Distributed data management and blockchain/20201118 - vChain Enabling Verifiable Boolean Range Queries over Blockchain Databases(陈晗锋).pptx.pptx">Slides</a></td>
   </tr>
   
   <tr>
     <td>Untangling blockchain: A data processing view of blockchain systems</td>
     <td>周浩</td>
-    <td><a href="2020fall/Distributed data management and blockchain/20201111 - BlockChainDB-a shared database on blockchains(张柔雨).pptx">Slides</a></td>
+    <td><a href="2020fall/Distributed data management and blockchain/20201118 - Untangling Blockchain A Data Processing View of Blockchain Systems(周浩).pptx">Slides</a></td>
   </tr>
   
   <tr>
     <td>Towards scaling blockchain systems via sharding</td>
     <td>黄志锋</td>
-    <td><a href="2020fall/Distributed data management and blockchain/20201111 - BlockChainDB-a shared database on blockchains(张柔雨).pptx">Slides</a></td>
+    <td><a href="2020fall/Distributed data management and blockchain/20201118 - 区块链数据库一种可查询且防篡改的数据库(黄志锋).pptx">Slides</a></td>
   </tr>
   
   <tr>
