@@ -63,8 +63,27 @@ Welcome to Database Systems Seminar :)
   <tr>
     <td>FalconDB: Blockchain-based Collaborative Database</td>
     <td>梁策</td>
-    <td><a href="2020fall/Distributed data management and blockchain/20201111 - BlockChainDB-a shared database on blockchains(张柔雨).pptx">Slides</a></td>
+    <td><a href="2020fall/Distributed data management and blockchain/20201125 - FalconDB Blockchain-based Collaborative Database(梁策).pptx">Slides</a></td>
   </tr>
+  <tr>
+    <td rowspan="4">18</td>
+    <td>CAPER区块链论文讲演</td>
+    <td>刘志豪</td>
+    <td><a href="2020fall/Distributed data management and blockchain/20201125 - CAPER区块链论文讲演(刘志豪).ppt">Slides</a></td>
+  </tr>
+  
+  <tr>
+    <td>Fine-Grained, Secure and Efficient Data Provenance on Blockchain Systems</td>
+    <td>李贤</td>
+    <td><a href="2020fall/Distributed data management and blockchain/20201125 - Fine-Grained, Secure and Efficient Data Provenance on Blockchain Systems(李贤).pptx">Slides</a></td>
+  </tr>
+  
+  <tr>
+    <td>BlockBench A Framework for Analyzing Private Blockchains</td>
+    <td>郑海坤</td>
+    <td><a href="2020fall/Distributed data management and blockchain/20201125 - BlockBench A Framework for Analyzing Private Blockchains(郑海坤).pptx">Slides</a></td>
+  </tr>
+  
   
   
 </table>
