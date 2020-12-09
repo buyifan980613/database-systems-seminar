@@ -86,26 +86,26 @@ Welcome to Database Systems Seminar :)
   
   <tr>
     <td rowspan="44">December</td>
-    <td rowspan="9">2</td>
-    <td rowspan="11" >Distributed data management and blockchain</td>
-    <td>Towards Scaling Blockchain Systems via Sharding</td>
-    <td>李文通</td>
-    <td><a href="2020fall/Distributed data management and blockchain/20201111 - Towards Scaling Blockchain Systems via Sharding(李文通).pptx">Slides</a></td>
+    <td rowspan="4">2</td>
+    <td rowspan="9" >Graph data processing</td>
+    <td>Automatic algorithm transformation for efficient multi-snapshot analytics on temporal graphs</td>
+    <td>蔡修远</td>
+    <td><a href="2020fall/Graph data processing/20201202 - Automatic algorithm transformation for efficient multi-snapshot analytics on temporal graphs(蔡修远) .pdf">Slides</a></td>
   </tr>
   <tr>
-    <td>Blockstack: A global naming and storage system secured by blockchains</td>
-    <td>宋云鹏</td>
-    <td><a href="2020fall/Distributed data management and blockchain/20201111-Blockstack A Global Naming and Storage System Secured by Blockchains(宋云鹏).pptx">Slides</a></td>
+    <td>LEOPARD Lightweight Edge-Oriented Partitioning and Replication for Dynamic Graphs</td>
+    <td>张钰波</td>
+    <td><a href="2020fall/Graph data processing/20201202 - LEOPARD Lightweight Edge-Oriented Partitioning and Replication for Dynamic Graphs(张钰波).pptx">Slides</a></td>
   </tr>
   <tr>
-    <td>Blockchain Meets Database: Design and Implementation of a Blockchain Relational Database</td>
-    <td>阮系标</td>
-    <td><a href="2020fall/Distributed data management and blockchain/20201111-Blockchain Meets Database Design and Implementation of a Blockchain Relational Database（阮系标）.pptx">Slides</a></td>
+    <td>Graphone A data store for real-time analytics on evolving graphs</td>
+    <td>杨杰</td>
+    <td><a href="2020fall/Graph data processing/20201202 - Graphone A data store for real-time analytics on evolving graphs(杨杰).pptx">Slides</a></td>
   </tr>
   <tr>
-    <td>BlockchainDB: a shared database on blockchains[J]. Proceedings of the VLDB Endowment</td>
-    <td>张柔雨</td>
-    <td><a href="2020fall/Distributed data management and blockchain/20201111 - BlockChainDB-a shared database on blockchains(张柔雨).pptx">Slides</a></td>
+    <td>Storing and Analyzing Historical Graph Data at Scale</td>
+    <td>颜祯</td>
+    <td><a href="2020fall/Distributed data management and blockchain/20201202 - Storing and Analyzing Historical Graph Data at Scale(颜祯).pptx">Slides</a></td>
   </tr>
   
   
