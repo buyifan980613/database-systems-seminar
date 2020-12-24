@@ -114,7 +114,6 @@ Welcome to Database Systems Seminar :)
   </tr>
   
   <tr>
-    <td rowspan="44">December</td>
     <td rowspan="5">9</td>
     <td>A Study of Partitioning Policies for Graph Analytics on Large-scale Distributed Platforms</td>
     <td>陶明沺</td>
