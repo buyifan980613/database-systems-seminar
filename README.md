@@ -86,7 +86,7 @@ Welcome to Database Systems Seminar :)
   
   <tr>
     <td rowspan="44">December</td>
-    <td rowspan="4">2</td>
+    <td rowspan="5">2</td>
     <td rowspan="9" >Graph data processing</td>
     <td>Automatic algorithm transformation for efficient multi-snapshot analytics on temporal graphs</td>
     <td>蔡修远</td>
@@ -105,10 +105,36 @@ Welcome to Database Systems Seminar :)
   <tr>
     <td>Storing and Analyzing Historical Graph Data at Scale</td>
     <td>颜祯</td>
-    <td><a href="2020fall/Distributed data management and blockchain/20201202 - Storing and Analyzing Historical Graph Data at Scale(颜祯).pptx">Slides</a></td>
+    <td><a href="2020fall/Graph data processing/20201202 - Storing and Analyzing Historical Graph Data at Scale(颜祯).pptx">Slides</a></td>
+  </tr>
+   <tr>
+    <td>Start Late or Finish Early A Distributed Graph Processing System with Redundancy Reduction</td>
+    <td>钱栋炜</td>
+    <td><a href="2020fall/Graph data processing/20201202-Start Late or Finish Early A Distributed Graph Processing System with Redundancy Reduction(钱栋炜).pptx">Slides</a></td>
   </tr>
   
-  
+  <tr>
+    <td rowspan="44">December</td>
+    <td rowspan="5">9</td>
+    <td>A Study of Partitioning Policies for Graph Analytics on Large-scale Distributed Platforms</td>
+    <td>陶明沺</td>
+    <td><a href="2020fall/Graph data processing/20201209 - A Study of Partitioning Policies for Graph Analytics on Large-scale Distributed Platforms(陶明沺).pdf">Slides</a></td>
+  </tr>
+  <tr>
+    <td>Fractal. A General-Purpose Graph Patern Mining System</td>
+    <td>孙雨晶</td>
+    <td><a href="2020fall/Graph data processing/20201209-Fractal. A General-Purpose Graph Patern Mining System(孙雨晶).pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>TopoX_Topology Refactorization for Efficient Graph Partitioning and Processing</td>
+    <td>张佳雯</td>
+    <td><a href="2020fall/Graph data processing/20201209 - TopoX_Topology Refactorization for Efficient Graph Partitioning and Processing(张佳雯).pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>Ariadne Online Provenance for Big Graph Analytics</td>
+    <td>陈雨</td>
+    <td><a href="2020fall/Graph data processing/20201209-Ariadne Online Provenance for Big Graph Analytics(陈雨).ppt">Slides</a></td>
+  </tr>
 </table>
 
 
