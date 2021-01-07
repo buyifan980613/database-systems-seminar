@@ -169,19 +169,19 @@ Welcome to Database Systems Seminar :)
     <td><a href="2020fall/AI enabled/20201209 - A Study of Partitioning Policies for Graph Analytics on Large-scale Distributed Platforms(陶明沺).pdf">Slides</a></td>
   </tr>
   <tr>
-    <td>Fractal. A General-Purpose Graph Patern Mining System</td>
-    <td>孙雨晶</td>
-    <td><a href="2020fall/Graph data processing/20201209-Fractal. A General-Purpose Graph Patern Mining System(孙雨晶).pptx">Slides</a></td>
+    <td>Learning a Neural Semantic Parser from User Feedback</td>
+    <td>步一凡</td>
+    <td><a href="2020fall/AI enabled/20201223-Learning a Neural Semantic Parser from User Feedback(步一凡).pptx">Slides</a></td>
   </tr>
   <tr>
-    <td>TopoX_Topology Refactorization for Efficient Graph Partitioning and Processing</td>
-    <td>张佳雯</td>
-    <td><a href="2020fall/Graph data processing/20201209 - TopoX_Topology Refactorization for Efficient Graph Partitioning and Processing(张佳雯).pptx">Slides</a></td>
+    <td>RAT-SQL Relation-Aware Schema Encoding  and Linking for Text-to-SQL Parsers</td>
+    <td>李文锋</td>
+    <td><a href="2020fall/AI enabled/20201223-RAT-SQL Relation-Aware Schema Encoding  and Linking for Text-to-SQL Parsers(李文锋).pptx">Slides</a></td>
   </tr>
   <tr>
-    <td>Ariadne Online Provenance for Big Graph Analytics</td>
-    <td>陈雨</td>
-    <td><a href="2020fall/Graph data processing/20201209-Ariadne Online Provenance for Big Graph Analytics(陈雨).ppt">Slides</a></td>
+    <td>Towards Complex Text-to-SQL in Cross-Domain</td>
+    <td>李放</td>
+    <td><a href="2020fall/AI enabled/20201223-Towards Complex Text-to-SQL in Cross-Domain(李放).pptx">Slides</a></td>
   </tr>
 </table>
 
