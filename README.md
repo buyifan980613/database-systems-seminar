@@ -163,10 +163,10 @@ Welcome to Database Systems Seminar :)
   </tr>
   
   <tr>
-    <td rowspan="5">9</td>
+    <td rowspan="4">23</td>
     <td>A Study of Partitioning Policies for Graph Analytics on Large-scale Distributed Platforms</td>
     <td>陶明沺</td>
-    <td><a href="2020fall/Graph data processing/20201209 - A Study of Partitioning Policies for Graph Analytics on Large-scale Distributed Platforms(陶明沺).pdf">Slides</a></td>
+    <td><a href="2020fall/AI enabled/20201209 - A Study of Partitioning Policies for Graph Analytics on Large-scale Distributed Platforms(陶明沺).pdf">Slides</a></td>
   </tr>
   <tr>
     <td>Fractal. A General-Purpose Graph Patern Mining System</td>
