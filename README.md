@@ -114,6 +114,55 @@ Welcome to Database Systems Seminar :)
   </tr>
   
   <tr>
+    <td rowspan="4">9</td>
+    <td>A Study of Partitioning Policies for Graph Analytics on Large-scale Distributed Platforms</td>
+    <td>陶明沺</td>
+    <td><a href="2020fall/Graph data processing/20201209 - A Study of Partitioning Policies for Graph Analytics on Large-scale Distributed Platforms(陶明沺).pdf">Slides</a></td>
+  </tr>
+  <tr>
+    <td>Fractal. A General-Purpose Graph Patern Mining System</td>
+    <td>孙雨晶</td>
+    <td><a href="2020fall/Graph data processing/20201209-Fractal. A General-Purpose Graph Patern Mining System(孙雨晶).pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>TopoX_Topology Refactorization for Efficient Graph Partitioning and Processing</td>
+    <td>张佳雯</td>
+    <td><a href="2020fall/Graph data processing/20201209 - TopoX_Topology Refactorization for Efficient Graph Partitioning and Processing(张佳雯).pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>Ariadne Online Provenance for Big Graph Analytics</td>
+    <td>陈雨</td>
+    <td><a href="2020fall/Graph data processing/20201209-Ariadne Online Provenance for Big Graph Analytics(陈雨).ppt">Slides</a></td>
+  </tr>
+  <tr>
+    <td rowspan="5">16</td>
+    <td rowspan="9" >AI enabled</td>
+    <td>Automatic algorithm transformation for efficient multi-snapshot analytics on temporal graphs</td>
+    <td>蔡修远</td>
+    <td><a href="2020fall/Graph data processing/20201202 - Automatic algorithm transformation for efficient multi-snapshot analytics on temporal graphs(蔡修远) .pdf">Slides</a></td>
+  </tr>
+  <tr>
+    <td>LEOPARD Lightweight Edge-Oriented Partitioning and Replication for Dynamic Graphs</td>
+    <td>张钰波</td>
+    <td><a href="2020fall/Graph data processing/20201202 - LEOPARD Lightweight Edge-Oriented Partitioning and Replication for Dynamic Graphs(张钰波).pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>Graphone A data store for real-time analytics on evolving graphs</td>
+    <td>杨杰</td>
+    <td><a href="2020fall/Graph data processing/20201202 - Graphone A data store for real-time analytics on evolving graphs(杨杰).pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>Storing and Analyzing Historical Graph Data at Scale</td>
+    <td>颜祯</td>
+    <td><a href="2020fall/Graph data processing/20201202 - Storing and Analyzing Historical Graph Data at Scale(颜祯).pptx">Slides</a></td>
+  </tr>
+   <tr>
+    <td>Start Late or Finish Early A Distributed Graph Processing System with Redundancy Reduction</td>
+    <td>钱栋炜</td>
+    <td><a href="2020fall/Graph data processing/20201202-Start Late or Finish Early A Distributed Graph Processing System with Redundancy Reduction(钱栋炜).pptx">Slides</a></td>
+  </tr>
+  
+  <tr>
     <td rowspan="5">9</td>
     <td>A Study of Partitioning Policies for Graph Analytics on Large-scale Distributed Platforms</td>
     <td>陶明沺</td>
