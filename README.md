@@ -184,7 +184,7 @@ Welcome to Database Systems Seminar :)
     <td><a href="2020fall/AI enabled/20201223-Towards Complex Text-to-SQL in Cross-Domain(李放).pptx">Slides</a></td>
   </tr>
   <tr>
-    <td rowspan="4">30</td>
+    <td rowspan="5">30</td>
     <td rowspan="9" >Cardinality estimate</td>
     <td>Monotonic Cardinality Estimation of Similarity Selection A Deep Learning Approach</td>
     <td>张嘉文</td>
