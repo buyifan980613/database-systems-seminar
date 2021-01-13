@@ -185,25 +185,30 @@ Welcome to Database Systems Seminar :)
   </tr>
   <tr>
     <td rowspan="4">30</td>
-    <td rowspan="9" >AI enabled</td>
-    <td>Semantic Parsing with Syntax- and Table-Aware SQL Generation</td>
-    <td>胡梦琦</td>
-    <td><a href="2020fall/AI enabled/20201223 - Semantic Parsing with Syntax- and Table-Aware SQL Generation(胡梦琦).pptx">Slides</a></td>
+    <td rowspan="9" >Cardinality estimate</td>
+    <td>Monotonic Cardinality Estimation of Similarity Selection A Deep Learning Approach</td>
+    <td>张嘉文</td>
+    <td><a href="2020fall/Cardinality estimate/20201230 - Monotonic Cardinality Estimation of Similarity Selection A Deep Learning Approach(张嘉文).pptx">Slides</a></td>
   </tr>
   <tr>
-    <td>Learning a Neural Semantic Parser from User Feedback</td>
-    <td>步一凡</td>
-    <td><a href="2020fall/AI enabled/20201223-Learning a Neural Semantic Parser from User Feedback(步一凡).pptx">Slides</a></td>
+    <td>Deep Unsupervised Cardinality Estimation</td>
+    <td>刘新妹</td>
+    <td><a href="2020fall/Cardinality estimate/20201230-Deep Unsupervised Cardinality Estimation(刘新妹）.pptx">Slides</a></td>
   </tr>
   <tr>
-    <td>RAT-SQL Relation-Aware Schema Encoding  and Linking for Text-to-SQL Parsers</td>
-    <td>李文锋</td>
-    <td><a href="2020fall/AI enabled/20201223-RAT-SQL Relation-Aware Schema Encoding  and Linking for Text-to-SQL Parsers(李文锋).pptx">Slides</a></td>
+    <td>DeepDB：Learn from Data, not from Queries!</td>
+    <td>孟浩东</td>
+    <td><a href="2020fall/Cardinality estimate/20201230-DeepDB：Learn from Data, not from Queries!(孟浩东).pptx">Slides</a></td>
   </tr>
   <tr>
-    <td>Towards Complex Text-to-SQL in Cross-Domain</td>
-    <td>李放</td>
-    <td><a href="2020fall/AI enabled/20201223-Towards Complex Text-to-SQL in Cross-Domain(李放).pptx">Slides</a></td>
+    <td>Learned Cardinalities Estimating Correl</td>
+    <td></td>
+    <td><a href="2020fall/Cardinality estimate/20201230-Learned Cardinalities Estimating Correl.pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>QuickSel Quick Selectivity Learning with Mixture Models</td>
+    <td>张胜博</td>
+    <td><a href="2020fall/Cardinality estimate/20210106-QuickSel Quick Selectivity Learning with Mixture Models(张胜博).pptx">Slides</a></td>
   </tr>
 </table>
 
