@@ -239,6 +239,33 @@ Welcome to Database Systems Seminar :)
     <td><a href="2020fall/Approximate Query/20210106-BlinkDB Queries with Bounded Errors and Bounded Response Times on Very Large Data（侯岩）.ppt">Slides</a></td>
   </tr>
   
+  <tr>
+    <td rowspan="4">13</td>
+    <td rowspan="5" >Intelligent database tuning</td>
+    <td>Active</td>
+    <td>杨默艺</td>
+    <td><a href="2020fall/Intelligent database tuning/20210113-Active（杨默艺）.pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>CDBTune</td>
+    <td>夏浚洋</td>
+    <td><a href="2020fall/Intelligent database tuning/20210113-CDBTune（夏浚洋）.pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>iBTune</td>
+    <td>丁鹿新</td>
+    <td><a href="2020fall/Intelligent database tuning/20210113-iBTune(丁鹿新).pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>QForecasting</td>
+    <td>黄达</td>
+    <td><a href="2020fall/Intelligent database tuning/20210113-QForecasting（黄达）.pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>QTune</td>
+    <td>王子阳</td>
+    <td><a href="2020fall/Intelligent database tuning/20210113-QTune(王子阳).pptx">Slides</a></td>
+  </tr>
   
 </table>
 
