@@ -183,6 +183,28 @@ Welcome to Database Systems Seminar :)
     <td>李放</td>
     <td><a href="2020fall/AI enabled/20201223-Towards Complex Text-to-SQL in Cross-Domain(李放).pptx">Slides</a></td>
   </tr>
+  <tr>
+    <td rowspan="4">30</td>
+    <td rowspan="9" >AI enabled</td>
+    <td>Semantic Parsing with Syntax- and Table-Aware SQL Generation</td>
+    <td>胡梦琦</td>
+    <td><a href="2020fall/AI enabled/20201223 - Semantic Parsing with Syntax- and Table-Aware SQL Generation(胡梦琦).pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>Learning a Neural Semantic Parser from User Feedback</td>
+    <td>步一凡</td>
+    <td><a href="2020fall/AI enabled/20201223-Learning a Neural Semantic Parser from User Feedback(步一凡).pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>RAT-SQL Relation-Aware Schema Encoding  and Linking for Text-to-SQL Parsers</td>
+    <td>李文锋</td>
+    <td><a href="2020fall/AI enabled/20201223-RAT-SQL Relation-Aware Schema Encoding  and Linking for Text-to-SQL Parsers(李文锋).pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>Towards Complex Text-to-SQL in Cross-Domain</td>
+    <td>李放</td>
+    <td><a href="2020fall/AI enabled/20201223-Towards Complex Text-to-SQL in Cross-Domain(李放).pptx">Slides</a></td>
+  </tr>
 </table>
 
 
