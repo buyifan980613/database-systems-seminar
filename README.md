@@ -134,33 +134,37 @@ Welcome to Database Systems Seminar :)
     <td>陈雨</td>
     <td><a href="2020fall/Graph data processing/20201209-Ariadne Online Provenance for Big Graph Analytics(陈雨).ppt">Slides</a></td>
   </tr>
+  
+  
   <tr>
     <td rowspan="5">16</td>
     <td rowspan="9" >AI enabled</td>
-    <td>Automatic algorithm transformation for efficient multi-snapshot analytics on temporal graphs</td>
-    <td>蔡修远</td>
-    <td><a href="2020fall/Graph data processing/20201202 - Automatic algorithm transformation for efficient multi-snapshot analytics on temporal graphs(蔡修远) .pdf">Slides</a></td>
+    <td>AI Meets AI Leveraging Query Executions to Improve Index Recommendations</td>
+    <td>尚睿涛</td>
+    <td><a href="2020fall/AI enabled/20201216-AI Meets AI Leveraging Query Executions to Improve Index Recommendations(尚睿涛).pptx">Slides</a></td>
   </tr>
   <tr>
-    <td>LEOPARD Lightweight Edge-Oriented Partitioning and Replication for Dynamic Graphs</td>
-    <td>张钰波</td>
-    <td><a href="2020fall/Graph data processing/20201202 - LEOPARD Lightweight Edge-Oriented Partitioning and Replication for Dynamic Graphs(张钰波).pptx">Slides</a></td>
+    <td>ALEX An Updatable Adaptive Learned Index</td>
+    <td>林靖智</td>
+    <td><a href="2020fall/AI enabled/20201216-ALEX An Updatable Adaptive Learned Index(林靖智）.pptx">Slides</a></td>
   </tr>
   <tr>
-    <td>Graphone A data store for real-time analytics on evolving graphs</td>
-    <td>杨杰</td>
-    <td><a href="2020fall/Graph data processing/20201202 - Graphone A data store for real-time analytics on evolving graphs(杨杰).pptx">Slides</a></td>
+    <td>FITing-Tree A Data-aware Index Structure</td>
+    <td>沈希乐</td>
+    <td><a href="2020fall/AI enabled/20201216-FITing-Tree A Data-aware Index Structure（沈希乐）.pptx">Slides</a></td>
   </tr>
   <tr>
-    <td>Storing and Analyzing Historical Graph Data at Scale</td>
-    <td>颜祯</td>
-    <td><a href="2020fall/Graph data processing/20201202 - Storing and Analyzing Historical Graph Data at Scale(颜祯).pptx">Slides</a></td>
+    <td>the case for learned index stuctures</td>
+    <td>马统晖</td>
+    <td><a href="2020fall/AI enabled/20201216-the case for learned index stuctures(马统晖).pptx">Slides</a></td>
   </tr>
    <tr>
-    <td>Start Late or Finish Early A Distributed Graph Processing System with Redundancy Reduction</td>
-    <td>钱栋炜</td>
-    <td><a href="2020fall/Graph data processing/20201202-Start Late or Finish Early A Distributed Graph Processing System with Redundancy Reduction(钱栋炜).pptx">Slides</a></td>
+    <td>The PGM-index a fully-dynamic compressed learned index with provable worst-case bounds</td>
+    <td>孙鲁</td>
+    <td><a href="2020fall/AI enabled/20201216-The PGM-index a fully-dynamic compressed learned index with provable worst-case bounds(孙鲁).pptx">Slides</a></td>
   </tr>
+  
+  
   
   <tr>
     <td rowspan="4">23</td>
@@ -210,6 +214,37 @@ Welcome to Database Systems Seminar :)
     <td>张胜博</td>
     <td><a href="2020fall/Cardinality estimate/20210106-QuickSel Quick Selectivity Learning with Mixture Models(张胜博).pptx">Slides</a></td>
   </tr>
+  
+   <tr>
+    <td rowspan="44">Janauary</td>
+    <td rowspan="4">6</td>
+    <td rowspan="9" >Graph data processing</td>
+    <td>Automatic algorithm transformation for efficient multi-snapshot analytics on temporal graphs</td>
+    <td>蔡修远</td>
+    <td><a href="2020fall/Graph data processing/20201202 - Automatic algorithm transformation for efficient multi-snapshot analytics on temporal graphs(蔡修远) .pdf">Slides</a></td>
+  </tr>
+  <tr>
+    <td>LEOPARD Lightweight Edge-Oriented Partitioning and Replication for Dynamic Graphs</td>
+    <td>张钰波</td>
+    <td><a href="2020fall/Graph data processing/20201202 - LEOPARD Lightweight Edge-Oriented Partitioning and Replication for Dynamic Graphs(张钰波).pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>Graphone A data store for real-time analytics on evolving graphs</td>
+    <td>杨杰</td>
+    <td><a href="2020fall/Graph data processing/20201202 - Graphone A data store for real-time analytics on evolving graphs(杨杰).pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>Storing and Analyzing Historical Graph Data at Scale</td>
+    <td>颜祯</td>
+    <td><a href="2020fall/Graph data processing/20201202 - Storing and Analyzing Historical Graph Data at Scale(颜祯).pptx">Slides</a></td>
+  </tr>
+   <tr>
+    <td>Start Late or Finish Early A Distributed Graph Processing System with Redundancy Reduction</td>
+    <td>钱栋炜</td>
+    <td><a href="2020fall/Graph data processing/20201202-Start Late or Finish Early A Distributed Graph Processing System with Redundancy Reduction(钱栋炜).pptx">Slides</a></td>
+  </tr>
+  
+  
 </table>
 
 
