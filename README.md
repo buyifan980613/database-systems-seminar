@@ -164,9 +164,9 @@ Welcome to Database Systems Seminar :)
   
   <tr>
     <td rowspan="4">23</td>
-    <td>A Study of Partitioning Policies for Graph Analytics on Large-scale Distributed Platforms</td>
-    <td>陶明沺</td>
-    <td><a href="2020fall/AI enabled/20201209 - A Study of Partitioning Policies for Graph Analytics on Large-scale Distributed Platforms(陶明沺).pdf">Slides</a></td>
+    <td>Semantic Parsing with Syntax- and Table-Aware SQL Generation</td>
+    <td>胡梦琦</td>
+    <td><a href="2020fall/AI enabled/20201223 - Semantic Parsing with Syntax- and Table-Aware SQL Generation(胡梦琦).pptx">Slides</a></td>
   </tr>
   <tr>
     <td>Learning a Neural Semantic Parser from User Feedback</td>
