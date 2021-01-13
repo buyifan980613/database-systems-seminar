@@ -85,7 +85,7 @@ Welcome to Database Systems Seminar :)
   </tr>
   
   <tr>
-    <td rowspan="44">December</td>
+    <td rowspan="23">December</td>
     <td rowspan="5">2</td>
     <td rowspan="9" >Graph data processing</td>
     <td>Automatic algorithm transformation for efficient multi-snapshot analytics on temporal graphs</td>
@@ -189,7 +189,7 @@ Welcome to Database Systems Seminar :)
   </tr>
   <tr>
     <td rowspan="5">30</td>
-    <td rowspan="9" >Cardinality estimate</td>
+    <td rowspan="5" >Cardinality estimate</td>
     <td>Monotonic Cardinality Estimation of Similarity Selection A Deep Learning Approach</td>
     <td>张嘉文</td>
     <td><a href="2020fall/Cardinality estimate/20201230 - Monotonic Cardinality Estimation of Similarity Selection A Deep Learning Approach(张嘉文).pptx">Slides</a></td>
@@ -218,30 +218,25 @@ Welcome to Database Systems Seminar :)
    <tr>
     <td rowspan="44">Janauary</td>
     <td rowspan="4">6</td>
-    <td rowspan="9" >Graph data processing</td>
-    <td>Automatic algorithm transformation for efficient multi-snapshot analytics on temporal graphs</td>
-    <td>蔡修远</td>
-    <td><a href="2020fall/Graph data processing/20201202 - Automatic algorithm transformation for efficient multi-snapshot analytics on temporal graphs(蔡修远) .pdf">Slides</a></td>
+    <td rowspan="4" >Approximate Query</td>
+    <td>用机器学习模型重新审视近似查询处理引擎</td>
+    <td>颜超一</td>
+    <td><a href="2020fall/Approximate Query/20210113-用机器学习模型重新审视近似查询处理引擎(颜超一).pptx">Slides</a></td>
   </tr>
   <tr>
-    <td>LEOPARD Lightweight Edge-Oriented Partitioning and Replication for Dynamic Graphs</td>
-    <td>张钰波</td>
-    <td><a href="2020fall/Graph data processing/20201202 - LEOPARD Lightweight Edge-Oriented Partitioning and Replication for Dynamic Graphs(张钰波).pptx">Slides</a></td>
+    <td>AQP++ Connecting Approximate Query Processing With Aggregate Precomputation for Interactive Analytics</td>
+    <td>夏江华</td>
+    <td><a href="2020fall/Approximate Query/20210106-AQP++ Connecting Approximate Query Processing With Aggregate Precomputation for Interactive Analytics(夏江华).ppt">Slides</a></td>
   </tr>
   <tr>
-    <td>Graphone A data store for real-time analytics on evolving graphs</td>
-    <td>杨杰</td>
-    <td><a href="2020fall/Graph data processing/20201202 - Graphone A data store for real-time analytics on evolving graphs(杨杰).pptx">Slides</a></td>
+    <td>Knowing when you're wrong building fast and reliable approximate query processing systems</td>
+    <td>潘金伟</td>
+    <td><a href="2020fall/Approximate Query/20210106-Knowing when you're wrong building fast and reliable approximate query processing systems(潘金伟).pptx">Slides</a></td>
   </tr>
   <tr>
-    <td>Storing and Analyzing Historical Graph Data at Scale</td>
-    <td>颜祯</td>
-    <td><a href="2020fall/Graph data processing/20201202 - Storing and Analyzing Historical Graph Data at Scale(颜祯).pptx">Slides</a></td>
-  </tr>
-   <tr>
-    <td>Start Late or Finish Early A Distributed Graph Processing System with Redundancy Reduction</td>
-    <td>钱栋炜</td>
-    <td><a href="2020fall/Graph data processing/20201202-Start Late or Finish Early A Distributed Graph Processing System with Redundancy Reduction(钱栋炜).pptx">Slides</a></td>
+    <td>BlinkDB Queries with Bounded Errors and Bounded Response Times on Very Large Data</td>
+    <td>侯岩</td>
+    <td><a href="2020fall/Approximate Query/20210106-BlinkDB Queries with Bounded Errors and Bounded Response Times on Very Large Data（侯岩）.ppt">Slides</a></td>
   </tr>
   
   
